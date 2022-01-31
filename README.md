@@ -1,2 +1,2 @@
 # 2022-business-analytics-datacamp
-2022 SMART Skills Datacamp for Business analytics students
+Files for the 2022 University of Exeter Q-Step Centre datacamp for Business analytics students
